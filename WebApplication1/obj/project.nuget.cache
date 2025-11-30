@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E8b96u5zbX8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tokmag\\source\\repos\\DurugyAndrea\\it_arch_devops\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tokmag\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
